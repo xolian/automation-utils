@@ -31,8 +31,6 @@ pip install -rrequirements.txt
 Brandon Spruth, Abhay Parashar
 ## License
 This project is licensed under the MIT License License - see the [LICENSE](LICENSE) file for details.
-## Badges
-[![GitHub stars](https://img.shields.io/github/stars/automation-utils)](https://github.com/automation-utils/stargazers) [![GitHub forks](https://img.shields.io/github/forks/automation-utils)](https://github.com/automation-utils/network/members) [![GitHub issues](https://img.shields.io/github/issues/automation-utils)](https://github.com/automation-utils/issues) [![GitHub license](https://img.shields.io/github/license/automation-utils)](https://github.com/automation-utils/blob/master/LICENSE)
 ## GitHub Repository
 [Link to GitHub repository](https://github.com/xolian/automation-utils)
     
