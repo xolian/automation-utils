@@ -1,6 +1,6 @@
 pyperclip3==0.4.1
 tk-tools==0.16.0
-streamlit==1.33.0
+streamlit==1.37.0
 yfinance==0.2.37
 prophet==1.1.5
 prettytable==3.10.0
